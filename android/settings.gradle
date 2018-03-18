@@ -1,0 +1,3 @@
+rootProject.name = 'shi_ttd'
+
+include ':app'
